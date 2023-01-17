@@ -1,5 +1,6 @@
 Therese Hjorth
 This is a test of Github push 
+This is a test of Github pull. 
 
 TODO: Add more to the title of your project here
 
